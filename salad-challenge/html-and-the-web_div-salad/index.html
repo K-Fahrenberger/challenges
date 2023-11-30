@@ -1,38 +1,24 @@
-<!--
-This page looks so confusing.
-It would be much better to work with semantic HTML to structure this code.
-Let's fix this mess!
-(There are hints to help you out below some elements)
--->
-
 <!DOCTYPE html>
 <html>
   <head>
     <title>HTML Basics Excercise</title>
     <meta charset="UTF-8" />
   </head>
-  <!--someone forgot to wrap the content of our webpage with an HTML element,
-	which one was it again?-->
   <header>
   <div>
     <div>
       <div>Jane Doe</div>
-      <!--Which elements could be used to link to parts of the webpage,
-		which appear below?-->
       <nav>
       <div id="nav">
-        <div>About Me</div>
-        <div>Contact</div>
-        <div>Skillset</div>
-      </div>
+        <div><a href="#about-me">About Me</a></div>
+        <div><a href="#contact">Contact</a></div>
+        <div><a href="#skills">Skillset</a></div>
+    </div>
     </div>
   </nav>
 </header>
-    <!--Looks like the following part is the central content of our webpage.-->
     <body>
-      
-
-    <div>
+      <div>
       <div id="about-me">
         <div>About me</div>
         <div>
@@ -40,7 +26,6 @@ Let's fix this mess!
           important information about me. If you want to work with me or get to
           know me, please don't hesitate to get in contact.
         </div>
-        <!--What element could be used to combine an image with a descriptive caption?-->
         <figure>
           <img
             src="https://source.unsplash.com/random/400x300?fruit"
@@ -65,7 +50,6 @@ Let's fix this mess!
 
       <div id="skills">
         <h3>Skillset</h3>
-        <!--This part could use some bulletpoint to be more structured-->
         <ul>
           <li>HTML</li>
           <li>CSS</li>
