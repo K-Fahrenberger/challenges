@@ -45,8 +45,8 @@ main {
 .box--top-center {
   background-color: #85c1e9;
   top: 0;
-  right: 50%;
-  transform: translate(-50%,);
+  left: 50%;
+  transform: translateX(-50%);
   
 }
 
@@ -58,7 +58,9 @@ main {
 
 .box--center {
   background-color: #3498db;
-  left: 50
+  left : 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .box--bottom-left {
@@ -69,9 +71,9 @@ main {
 
 .box--bottom-center {
   background-color: #21618c;
-  bottom: 0; /* Position the element at the bottom */
-  left: 50%; /* Center the element horizontally */
-  transform: translateY(-50%); /* Vertically center the element */
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 
