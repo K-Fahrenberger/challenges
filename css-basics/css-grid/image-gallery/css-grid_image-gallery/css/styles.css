@@ -39,11 +39,12 @@ body {
 }
 
 .teaser-grid {
-  min-width: 40rem;
-  min-height: 100vh;
-
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  }
   /* Add styles to the grid container */
-}
+
 
 .teaser-grid__teaser {
   padding: 3rem;
