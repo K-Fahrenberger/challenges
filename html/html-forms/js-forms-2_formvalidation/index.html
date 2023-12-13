@@ -35,7 +35,7 @@
           />
 
           <label for="last-name">Last Name</label>
-          <input
+          <input minlength="4" maxlength="30"
             type="text"
             name="lastName"
             id="last-name"
@@ -43,10 +43,10 @@
           />
 
           <label for="age">Age</label>
-          <input type="number" name="age" id="age" />
+          <input min="14" type="number" name="age" id="age" />
 
           <label for="email">Email</label>
-          <input type="text" name="email" id="email" />
+          <input pattern="@" type="text" name="email" id="email" />
         </fieldset>
 
         <fieldset>
@@ -102,7 +102,7 @@
           </label>
         </fieldset>
 
-        <button type="submit">Complain now!</button>
+        <button required type="submit">Complain now!</button>
       </form>
     </main>
   </body>

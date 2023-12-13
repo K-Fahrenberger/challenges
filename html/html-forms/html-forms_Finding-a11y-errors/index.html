@@ -1,3 +1,4 @@
+<!-- 
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -15,20 +16,21 @@
       <p id="description">
         Please let us know how we can support you with a11y issues.
       </p>
+      <fieldset aria-describedby="description">...</fieldset>
 
-      <form for="title">
+      <form for="title" aria-labelledby="title">
         <fieldset>
-          <legend>Enter your information</legend>
-          <label aria-describedby="name-input">Name:</label>
+          <legend> A11y issues form</legend>
+          <label for="Name" aria-describedby="name-input">Name:</label>
           <input id="name-Input" type="text" name="name" />
-          <label aria-describedby="age-input">Age:</label>
+          <label for="Age" aria-describedby="age-input">Age:</label>
           <input id="age-Input" type="text" name="age" />
-          <label aria-describedby="color-input">Color you cannot see:</label>
-          <input id="color-Input" type="color" name="color" />
+          <label for="email" aria-describedby="color-input">Color you cannot see:</label>
+          <input for="Color you cannot see" id="color-Input" type="color" name="color" />
           <textarea rows="7" placeholder="Leave us a message..."></textarea>
-          <button type="submit">Submit</button>
+          <button aria-label="Submit form" type="submit">Submit</button>
         </fieldset>
       </form>
     </section>
   </body>
-</html>
+</html> -->
