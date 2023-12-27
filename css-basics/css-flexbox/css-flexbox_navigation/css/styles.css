@@ -46,4 +46,7 @@ ul {
   border-radius: 5px;
 }
 
-navigation__menu
+.navigation__menu {
+  display: flex;
+  justify-content: space-between;
+}
