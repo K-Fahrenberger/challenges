@@ -24,10 +24,34 @@ const display = document.querySelector('[data-js="display"]');
 
 function getGreeting() {
   // Code here
+  function getGreeting() {
+    const currentHour = new Date().getHours();
+  
+    if (currentHour >= 6 && currentHour <= 12) {
+      return "Good Morning";
+    } else if (currentHour >= 13 && currentHour <= 18) {
+      return "Good Afternoon";
+    } else if (currentHour >= 19 && currentHour <= 22) {
+      return "Good Evening";
+    } else {
+      return "Good Night";
+    }
+  }
 }
 
 function getDayColor() {
   // Code here
+  function getDayColor() {
+    const currentDay = new Date().getDay();
+  
+    switch (currentDay) {
+      case 1: 
+      return "darkgray";
+      case 5: 
+      return "lightblue";
+      case 6: 
+      return "hotpink";
+
 }
 
 display.textContent = getGreeting();
