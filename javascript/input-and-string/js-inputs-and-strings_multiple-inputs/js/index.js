@@ -14,3 +14,20 @@ Implement the following functionality:
 const firstInput = document.querySelector("[data-js=first-input]");
 const secondInput = document.querySelector("[data-js=second-input]");
 const button = document.querySelector("[data-js=button]");
+
+const copyValue = () => {
+  secondInput.value = firstInput.value;
+};
+
+const copyUppercaseValue = () => {
+  secondInput.value = firstInput.value.toUpperCase();
+};
+
+const switchValues = () => {
+  [firstInput.value, secondInput.value] = [secondInput.value, firstInput.value];
+};
+
+button.addEventListener("click", copyValue);
+button.addEventListener("click", copyUppercaseValue);
+button.addEventListener("click", switchValues);
+
