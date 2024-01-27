@@ -1,0 +1,163 @@
+[33m803c73b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{0}: commit: Add circle-challenge
+[33mc85883b[m[33m ([m[1;32mproduct-teaser[m[33m)[m HEAD@{1}: checkout: moving from product-teaser to main
+[33mc85883b[m[33m ([m[1;32mproduct-teaser[m[33m)[m HEAD@{2}: checkout: moving from toast-messages to product-teaser
+[33m6e9a45f[m[33m ([m[1;31morigin/toast-messages[m[33m, [m[1;32mtoast-messages[m[33m)[m HEAD@{3}: checkout: moving from product-teaser to toast-messages
+[33mc85883b[m[33m ([m[1;32mproduct-teaser[m[33m)[m HEAD@{4}: checkout: moving from main to product-teaser
+[33mc85883b[m[33m ([m[1;32mproduct-teaser[m[33m)[m HEAD@{5}: checkout: moving from toast-messages to main
+[33m6e9a45f[m[33m ([m[1;31morigin/toast-messages[m[33m, [m[1;32mtoast-messages[m[33m)[m HEAD@{6}: commit: Add Toast solution
+[33mc85883b[m[33m ([m[1;32mproduct-teaser[m[33m)[m HEAD@{7}: checkout: moving from main to toast-messages
+[33mc85883b[m[33m ([m[1;32mproduct-teaser[m[33m)[m HEAD@{8}: commit: Add createElement challenges
+[33m823bbaa[m[33m ([m[1;32mswitch-values[m[33m, [m[1;32mhandle-forms-submit[m[33m)[m HEAD@{9}: checkout: moving from handle-forms-submit to main
+[33m823bbaa[m[33m ([m[1;32mswitch-values[m[33m, [m[1;32mhandle-forms-submit[m[33m)[m HEAD@{10}: checkout: moving from main to handle-forms-submit
+[33m823bbaa[m[33m ([m[1;32mswitch-values[m[33m, [m[1;32mhandle-forms-submit[m[33m)[m HEAD@{11}: checkout: moving from switch-values to main
+[33m823bbaa[m[33m ([m[1;32mswitch-values[m[33m, [m[1;32mhandle-forms-submit[m[33m)[m HEAD@{12}: checkout: moving from main to switch-values
+[33m823bbaa[m[33m ([m[1;32mswitch-values[m[33m, [m[1;32mhandle-forms-submit[m[33m)[m HEAD@{13}: checkout: moving from input-to-uppercase-and-lowercase to main
+[33m0b778f0[m[33m ([m[1;31morigin/input-to-uppercase-and-lowercase[m[33m, [m[1;32minput-to-uppercase-and-lowercase[m[33m)[m HEAD@{14}: commit: Add JS input and string input to uppercase and lowercase challenge solution
+[33m823bbaa[m[33m ([m[1;32mswitch-values[m[33m, [m[1;32mhandle-forms-submit[m[33m)[m HEAD@{15}: checkout: moving from main to input-to-uppercase-and-lowercase
+[33m823bbaa[m[33m ([m[1;32mswitch-values[m[33m, [m[1;32mhandle-forms-submit[m[33m)[m HEAD@{16}: checkout: moving from input-to-uppercase to main
+[33m5301834[m[33m ([m[1;31morigin/input-to-uppercase[m[33m, [m[1;32minput-to-uppercase[m[33m)[m HEAD@{17}: commit: Add JS input and string input to uppercase challenge solution
+[33m823bbaa[m[33m ([m[1;32mswitch-values[m[33m, [m[1;32mhandle-forms-submit[m[33m)[m HEAD@{18}: checkout: moving from main to input-to-uppercase
+[33m823bbaa[m[33m ([m[1;32mswitch-values[m[33m, [m[1;32mhandle-forms-submit[m[33m)[m HEAD@{19}: commit: Add JS input and string challenges
+[33m8e59e85[m HEAD@{20}: checkout: moving from form-validation to main
+[33m47b3b1f[m[33m ([m[1;31morigin/form-validation[m[33m, [m[1;32mform-validation[m[33m)[m HEAD@{21}: commit: Add form validation solution
+[33mb3438eb[m[33m ([m[1;31morigin/finding-a11y-errors[m[33m, [m[1;32mfinding-a11y-errors[m[33m)[m HEAD@{22}: checkout: moving from finding-a11y-errors to form-validation
+[33mb3438eb[m[33m ([m[1;31morigin/finding-a11y-errors[m[33m, [m[1;32mfinding-a11y-errors[m[33m)[m HEAD@{23}: commit: Add a11y errors solution
+[33m8e59e85[m HEAD@{24}: checkout: moving from main to finding-a11y-errors
+[33m8e59e85[m HEAD@{25}: checkout: moving from personal-profile-form to main
+[33m2c8b49f[m[33m ([m[1;31morigin/personal-profile-form[m[33m, [m[1;32mpersonal-profile-form[m[33m)[m HEAD@{26}: commit: Add HTML personal profile solution
+[33m8e59e85[m HEAD@{27}: checkout: moving from main to personal-profile-form
+[33m8e59e85[m HEAD@{28}: commit: Add HTML Forms challenges
+[33m243f212[m HEAD@{29}: checkout: moving from basic-calculations to main
+[33m37a9e98[m[33m ([m[1;31morigin/basic-calculations[m[33m, [m[1;32mbasic-calculations[m[33m)[m HEAD@{30}: commit: Add JS functions2 basic calculation solution
+[33m243f212[m HEAD@{31}: checkout: moving from main to basic-calculations
+[33m243f212[m HEAD@{32}: checkout: moving from dom-manipulation to main
+[33me4c819d[m[33m ([m[1;31morigin/dom-manipulation[m[33m, [m[1;32mdom-manipulation[m[33m)[m HEAD@{33}: commit: Add JS functions dom manipulation
+[33m243f212[m HEAD@{34}: checkout: moving from main to dom-manipulation
+[33m243f212[m HEAD@{35}: checkout: moving from pizza-analyzer to main
+[33m8a06b43[m[33m ([m[1;31morigin/pizza-analyzer[m[33m, [m[1;32mpizza-analyzer[m[33m)[m HEAD@{36}: commit: Add JS functions pizza solution
+[33m243f212[m HEAD@{37}: checkout: moving from main to pizza-analyzer
+[33m243f212[m HEAD@{38}: checkout: moving from functions-with-parameters-extra to main
+[33m453b8a7[m[33m ([m[1;31morigin/functions-with-parameters-extra[m[33m, [m[1;32mfunctions-with-parameters-extra[m[33m)[m HEAD@{39}: commit: Add JS functions with parameters extra solution
+[33m243f212[m HEAD@{40}: checkout: moving from main to functions-with-parameters-extra
+[33m243f212[m HEAD@{41}: checkout: moving from functions-with-parameters to main
+[33md07d737[m[33m ([m[1;31morigin/functions-with-parameters[m[33m, [m[1;32mfunctions-with-parameters[m[33m)[m HEAD@{42}: commit: Add JS functions with parameters solution
+[33m243f212[m HEAD@{43}: checkout: moving from main to functions-with-parameters
+[33m243f212[m HEAD@{44}: checkout: moving from basic-functions to main
+[33m0133b22[m[33m ([m[1;31morigin/basic-functions[m[33m, [m[1;32mbasic-functions[m[33m)[m HEAD@{45}: commit: Add JS basic function solution
+[33m243f212[m HEAD@{46}: checkout: moving from main to basic-functions
+[33m243f212[m HEAD@{47}: commit: Add JS function challenges
+[33m64d8c21[m[33m ([m[1;32msimple-calculator[m[33m)[m HEAD@{48}: checkout: moving from simple-calculator to main
+[33m64d8c21[m[33m ([m[1;32msimple-calculator[m[33m)[m HEAD@{49}: checkout: moving from main to simple-calculator
+[33m64d8c21[m[33m ([m[1;32msimple-calculator[m[33m)[m HEAD@{50}: pull: Fast-forward
+[33m7ba7e20[m HEAD@{51}: pull: Fast-forward
+[33m6d53803[m HEAD@{52}: pull: Fast-forward
+[33md647920[m HEAD@{53}: checkout: moving from savings-goal to main
+[33m05f61e8[m[33m ([m[1;31morigin/savings-goal[m[33m, [m[1;32msavings-goal[m[33m)[m HEAD@{54}: commit: add savings-goal-challenge-solution
+[33md647920[m HEAD@{55}: checkout: moving from main to savings-goal
+[33md647920[m HEAD@{56}: commit: add saving-goal-challenge
+[33m56c4459[m HEAD@{57}: checkout: moving from calculator to main
+[33m94d3931[m[33m ([m[1;31morigin/calculator[m[33m, [m[1;32mcalculator[m[33m)[m HEAD@{58}: commit: add tip-calculator-solution
+[33m56c4459[m HEAD@{59}: checkout: moving from main to calculator
+[33m56c4459[m HEAD@{60}: checkout: moving from data-social-media to main
+[33m0904f51[m[33m ([m[1;31morigin/data-social-media[m[33m, [m[1;32mdata-social-media[m[33m)[m HEAD@{61}: commit: add data-social-media-solution
+[33mbe68f35[m HEAD@{62}: checkout: moving from main to data-social-media
+[33m56c4459[m HEAD@{63}: checkout: moving from objects-and-arrays to main
+[33m9f8290b[m[33m ([m[1;31morigin/objects-and-arrays[m[33m, [m[1;32mobjects-and-arrays[m[33m)[m HEAD@{64}: commit: add objects-and-arrays-challenges-solution
+[33m34a155f[m[33m ([m[1;31morigin/objects[m[33m, [m[1;32mobjects[m[33m)[m HEAD@{65}: checkout: moving from objects to objects-and-arrays
+[33m34a155f[m[33m ([m[1;31morigin/objects[m[33m, [m[1;32mobjects[m[33m)[m HEAD@{66}: commit: add objects-and-arrays-challenges-solution
+[33ma36f119[m[33m ([m[1;31morigin/arrays[m[33m, [m[1;32marrays[m[33m)[m HEAD@{67}: checkout: moving from arrays to objects
+[33ma36f119[m[33m ([m[1;31morigin/arrays[m[33m, [m[1;32marrays[m[33m)[m HEAD@{68}: commit: add objects-and-arrays-challenges-solution
+[33m56c4459[m HEAD@{69}: checkout: moving from main to arrays
+[33m56c4459[m HEAD@{70}: commit: add objects-and-arrays-challenges
+[33mbe68f35[m HEAD@{71}: checkout: moving from data-social-media to main
+[33mbe68f35[m HEAD@{72}: checkout: moving from main to data-social-media
+[33mbe68f35[m HEAD@{73}: checkout: moving from place-elements to main
+[33m911221c[m[33m ([m[1;31morigin/place-elements[m[33m, [m[1;32mplace-elements[m[33m)[m HEAD@{74}: commit: add place-elements-challenge solution
+[33mbe68f35[m HEAD@{75}: checkout: moving from main to place-elements
+[33mbe68f35[m HEAD@{76}: checkout: moving from image-board to main
+[33m42001e9[m[33m ([m[1;31morigin/image-board[m[33m, [m[1;32mimage-board[m[33m)[m HEAD@{77}: commit: add image-board-challenge solution
+[33mbe68f35[m HEAD@{78}: checkout: moving from main to image-board
+[33mbe68f35[m HEAD@{79}: commit: add image-board-challenge
+[33m3dbd187[m HEAD@{80}: checkout: moving from payment-cards to main
+[33m5f6b438[m[33m ([m[1;31morigin/payment-cards[m[33m, [m[1;32mpayment-cards[m[33m)[m HEAD@{81}: commit: add payment-cards-solution
+[33m3dbd187[m HEAD@{82}: checkout: moving from main to payment-cards
+[33m3dbd187[m HEAD@{83}: commit: add payment-cards
+[33mb453a7c[m HEAD@{84}: checkout: moving from service-gallery to main
+[33mc811282[m[33m ([m[1;31morigin/service-gallery[m[33m, [m[1;32mservice-gallery[m[33m)[m HEAD@{85}: commit: add service-gallery
+[33mb453a7c[m HEAD@{86}: checkout: moving from main to service-gallery
+[33mb453a7c[m HEAD@{87}: commit: add service-gallery-challenge
+[33md23e5bd[m HEAD@{88}: checkout: moving from image-gallery to main
+[33m0d27d9a[m[33m ([m[1;31morigin/image-gallery[m[33m, [m[1;32mimage-gallery[m[33m)[m HEAD@{89}: commit: add image-gallery-solution
+[33md23e5bd[m HEAD@{90}: checkout: moving from main to image-gallery
+[33md23e5bd[m HEAD@{91}: commit: add image-gallery-challenge
+[33m5f1e525[m HEAD@{92}: checkout: moving from responsive-website to main
+[33m3c76964[m[33m ([m[1;31morigin/responsive-website[m[33m, [m[1;32mresponsive-website[m[33m)[m HEAD@{93}: commit: add responsive-website-solution
+[33m5f1e525[m HEAD@{94}: checkout: moving from main to responsive-website
+[33m5f1e525[m HEAD@{95}: commit: add responsive-website-challenge
+[33m646b933[m HEAD@{96}: checkout: moving from playground to main
+[33m645636e[m[33m ([m[1;31morigin/playground[m[33m, [m[1;32mplayground[m[33m)[m HEAD@{97}: commit: add solution playground
+[33m646b933[m HEAD@{98}: checkout: moving from main to playground
+[33m646b933[m HEAD@{99}: commit: add playground challenge
+[33m2194d08[m[33m ([m[1;32mcss-flexbox[m[33m)[m HEAD@{100}: checkout: moving from css-flexbox to main
+[33m2194d08[m[33m ([m[1;32mcss-flexbox[m[33m)[m HEAD@{101}: checkout: moving from main to css-flexbox
+[33m2194d08[m[33m ([m[1;32mcss-flexbox[m[33m)[m HEAD@{102}: commit: add challenge css-flexbox
+[33m81eaa05[m[33m ([m[1;32mcustom-properties[m[33m)[m HEAD@{103}: checkout: moving from custom-properties to main
+[33m81eaa05[m[33m ([m[1;32mcustom-properties[m[33m)[m HEAD@{104}: checkout: moving from main to custom-properties
+[33m81eaa05[m[33m ([m[1;32mcustom-properties[m[33m)[m HEAD@{105}: commit: add challenge custom-properties
+[33m3aa60bb[m HEAD@{106}: checkout: moving from selectors-and-cascading-bugs to main
+[33mb2d88c1[m[33m ([m[1;31morigin/selectors-and-cascading-bugs[m[33m, [m[1;32mselectors-and-cascading-bugs[m[33m)[m HEAD@{107}: commit: add solution css-selectors-and-cascading-bugs
+[33m3aa60bb[m HEAD@{108}: checkout: moving from main to selectors-and-cascading-bugs
+[33m3aa60bb[m HEAD@{109}: commit: add challenge css-selectors-and-cascading-bugs
+[33mbe4bcb5[m HEAD@{110}: checkout: moving from layout-with-position to main
+[33m2b90fd4[m[33m ([m[1;31morigin/layout-with-position[m[33m, [m[1;32mlayout-with-position[m[33m)[m HEAD@{111}: commit: add:css-positioning_layout-with-position_solution
+[33meacabe2[m HEAD@{112}: checkout: moving from main to layout-with-position
+[33mbe4bcb5[m HEAD@{113}: commit: add:css-positioning_layout-with-position
+[33meacabe2[m HEAD@{114}: checkout: moving from layout-with-position to main
+[33meacabe2[m HEAD@{115}: checkout: moving from main to layout-with-position
+[33meacabe2[m HEAD@{116}: checkout: moving from layout-with-position to main
+[33meacabe2[m HEAD@{117}: checkout: moving from main to layout-with-position
+[33meacabe2[m HEAD@{118}: checkout: moving from css-positioning to main
+[33mb66e363[m[33m ([m[1;31morigin/css-positioning[m[33m, [m[1;32mcss-positioning[m[33m)[m HEAD@{119}: checkout: moving from main to css-positioning
+[33meacabe2[m HEAD@{120}: checkout: moving from css-positioning to main
+[33mb66e363[m[33m ([m[1;31morigin/css-positioning[m[33m, [m[1;32mcss-positioning[m[33m)[m HEAD@{121}: checkout: moving from main to css-positioning
+[33meacabe2[m HEAD@{122}: commit: Add Challenge
+[33m34da67f[m HEAD@{123}: checkout: moving from css-positioning to main
+[33mb66e363[m[33m ([m[1;31morigin/css-positioning[m[33m, [m[1;32mcss-positioning[m[33m)[m HEAD@{124}: commit: Add Challenge solution
+[33mea1abf6[m HEAD@{125}: checkout: moving from main to css-positioning
+[33m34da67f[m HEAD@{126}: commit: Add folder
+[33m8c0eca9[m HEAD@{127}: commit: Add challenge
+[33m6488b01[m HEAD@{128}: checkout: moving from css-positioning to main
+[33mea1abf6[m HEAD@{129}: checkout: moving from main to css-positioning
+[33m6488b01[m HEAD@{130}: checkout: moving from css-positioning to main
+[33mea1abf6[m HEAD@{131}: checkout: moving from main to css-positioning
+[33m6488b01[m HEAD@{132}: commit: add changes
+[33m80cf4e6[m HEAD@{133}: pull: Fast-forward
+[33mea1abf6[m HEAD@{134}: checkout: moving from css-positioning to main
+[33mea1abf6[m HEAD@{135}: checkout: moving from main to css-positioning
+[33mea1abf6[m HEAD@{136}: pull origin main: Fast-forward
+[33m28961c8[m HEAD@{137}: checkout: moving from html-and-the-web_personal-website to main
+[33m28df7e4[m[33m ([m[1;31morigin/html-and-the-web_personal-website[m[33m, [m[1;32mhtml-and-the-web_personal-website[m[33m)[m HEAD@{138}: commit: Add:html-and-the-web_personal-website challenge
+[33m28961c8[m HEAD@{139}: checkout: moving from main to html-and-the-web_personal-website
+[33m28961c8[m HEAD@{140}: checkout: moving from css-basics_social-card to main
+[33m601c4a6[m[33m ([m[1;31morigin/css-basics_social-card[m[33m, [m[1;32mcss-basics_social-card[m[33m)[m HEAD@{141}: commit: Add:social-card challenge
+[33m28961c8[m HEAD@{142}: checkout: moving from css-basics_social-card to css-basics_social-card
+[33m28961c8[m HEAD@{143}: checkout: moving from main to css-basics_social-card
+[33m28961c8[m HEAD@{144}: pull: Fast-forward
+[33m0d9d90f[m HEAD@{145}: checkout: moving from pokemon-page to main
+[33mbfa9afa[m[33m ([m[1;31morigin/pokemon-page[m[33m, [m[1;32mpokemon-page[m[33m)[m HEAD@{146}: commit: Add:pokemon-page-solution
+[33m0d9d90f[m HEAD@{147}: checkout: moving from main to pokemon-page
+[33m0d9d90f[m HEAD@{148}: checkout: moving from button-styles to main
+[33m88439d7[m[33m ([m[1;31morigin/button-styles[m[33m, [m[1;32mbutton-styles[m[33m)[m HEAD@{149}: commit: Add:Button-challenge-solution
+[33m0d9d90f[m HEAD@{150}: checkout: moving from main to button-styles
+[33m0d9d90f[m HEAD@{151}: checkout: moving from salad-challenge to main
+[33m8856b0f[m HEAD@{152}: pull origin main: Fast-forward
+[33mae56a30[m[33m ([m[1;31morigin/salad-challenge[m[33m)[m HEAD@{153}: checkout: moving from main to salad-challenge
+[33m0d9d90f[m HEAD@{154}: commit: ADD:challenges css
+[33mfaa7c2b[m HEAD@{155}: commit: add:css-challenges
+[33m021fcc5[m[33m ([m[1;32mpersonal-website[m[33m)[m HEAD@{156}: checkout: moving from salad-challenge to main
+[33mae56a30[m[33m ([m[1;31morigin/salad-challenge[m[33m)[m HEAD@{157}: commit: Fix:html-and-the-web_div-salad
+[33m021fcc5[m[33m ([m[1;32mpersonal-website[m[33m)[m HEAD@{158}: checkout: moving from personal-website to salad-challenge
+[33m021fcc5[m[33m ([m[1;32mpersonal-website[m[33m)[m HEAD@{159}: checkout: moving from main to personal-website
+[33m021fcc5[m[33m ([m[1;32mpersonal-website[m[33m)[m HEAD@{160}: commit: add salad challenge
+[33m682bd63[m HEAD@{161}: commit: html challenge
+[33m3352d2f[m HEAD@{162}: commit (initial): added challenged

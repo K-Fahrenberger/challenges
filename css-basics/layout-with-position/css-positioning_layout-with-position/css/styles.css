@@ -17,14 +17,20 @@ body {
  * document is scrolled.
  */
 .header {
+
   /* Fixed the position and set top to 0 so it remains on top */
   position: fixed;
   top: 0;
+
+  position: fixed;
+  width: max-content;
+
   background: #140523;
   color: #ffffff;
   height: 80px;
   box-shadow: rgba(0, 0, 0, 0.24) 0 3px 8px;
   padding: 10px;
+
 }
 
 .header__text {
@@ -41,9 +47,12 @@ body {
  * document is scrolled.
  */
 .footer {
+  
   /* Set position to fixed and bottom to 0 so it remains there when scrolled */
   position: fixed;
   bottom: 0;
+  position: fixed;
+
   background: #140523;
   color: #ffffff;
   height: 48px;

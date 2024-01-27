@@ -17,6 +17,10 @@ body {
  * document is scrolled.
  */
 .header {
+  /*fixed the position*/
+  position: fixed;
+  /*placed header at the top*/
+  top: 0;
   background: #140523;
   color: #ffffff;
   height: 80px;
@@ -38,6 +42,10 @@ body {
  * document is scrolled.
  */
 .footer {
+/* Fixed the position */
+  position: fixed;
+  /* Placed footer at the bottom */
+  bottom: 0;
   background: #140523;
   color: #ffffff;
   height: 48px;
@@ -48,6 +56,8 @@ body {
  * Define the card as reference frame for descendant elements, that require absolute positioning.
  */
 .card {
+  /* Set position relative so child container use it as a reference coordinate */
+  position: relative;
   margin: 20px 10%;
   border: 5px solid #252629;
   padding: 3% 10%;
@@ -63,6 +73,10 @@ body {
  * Place the bookmark in the top, right corner of each card.
  */
 .card__bookmark {
+  /* Place it top and right with absolute position to parent*/
+  position: absolute;
+  top: 0;
+  right: 0;
   border: 2px solid #ff4a11;
   font-size: 2em;
   padding: 6px 12px;
@@ -75,6 +89,11 @@ body {
  * unaffected when the document is scrolled.
  */
 .goto-top {
+  /* fixed the position on the right bottom side and made it always stay on front by adding positive z-index */
+  position: fixed;
+  z-index: 1;
+  bottom: 0;
+  right: 0;
   width: 48px;
   height: 48px;
   padding: 8px;
