@@ -9,7 +9,10 @@ console.clear();
 */
 
 // --v-- write your code here --v--
-
+let bookTitle;
+let author;
+let rating;
+let numberOfSales;
 // --^-- write your code here --^--
 
 /*
@@ -25,7 +28,17 @@ Then log all variables to the console again.
 */
 
 // --v-- write your code here --v--
+bookTitle = "The Lord of the Javascript";
+author = "Mario";
+rating = 4.2;
+numberOfSales = 120;
 
+logBookData();
+
+numberOfSales += 296;
+rating = 6.9;
+
+logBookData();
 // --^-- write your code here --^--
 
 /*
@@ -35,7 +48,14 @@ Then log all variables to the console again.
  - Then replace the console logs above with this function.
  - Now increase the number of sales 2 more times and log the data after each increase.
 */
-
 // --v-- write your code here --v--
-
+function logBookData() {
+  console.log("Title:", bookTitle);
+  console.log("Author:", author);
+  console.log("Rating:", rating);
+  console.log("Sales:", numberOfSales);
+}
+numberOfSales += 2;
+numberOfSales += 2;
+logBookData();
 // --^-- write your code here --^--
